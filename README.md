@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehedimehad" target="blank"><img src="https://img.shields.io/twitter/follow/mehedimehad?logo=twitter&style=for-the-badge" alt="mehedimehad" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development Course at Programming Hero**
+- 🌱 I’m currently working on **Web Development**
 
 - 📫 How to reach me **mdmehedihasanmehad@gmail.com**
 
