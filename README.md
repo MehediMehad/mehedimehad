@@ -1,3 +1,4 @@
+![logo](https://github.com/MehediMehad/mehedimehad/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Mehedi Mehad</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
