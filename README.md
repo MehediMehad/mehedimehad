@@ -1,29 +1,80 @@
-![logo](https://github.com/MehediMehad/mehedimehad/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).gif)
-<h1 align="center">Hi 👋, I'm Mehedi Mehad</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Black%20%26%20Yellow%20Creative%20Business%20Facebook%20Cover%20%281%29-MekYxFJZObGbKckL3HZlyrA2toZbI2.gif" alt="Creative Tech Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</div>
 
-<img align= "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" >
+### About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedimehad&label=Profile%20views&color=0e75b6&style=flat" alt="mehedimehad" /> </p>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/mehedimehad" target="blank"><img src="https://img.shields.io/twitter/follow/mehedimehad?logo=twitter&style=for-the-badge" alt="mehedimehad" /></a> </p>
+Hey there! I'm a passionate **Full Stack Developer** dedicated to crafting innovative and scalable solutions. I thrive on turning ideas into reality with clean, efficient code. My journey involves exploring cutting-edge technologies, contributing to open-source communities, and building impactful projects. Outside of coding, I’m either diving into the latest tech trends, sharing knowledge, or sipping coffee while debugging!
 
-- 🌱 I’m currently working on **Web Development**
+<br>
 
-- 📫 How to reach me **mdmehedihasanmehad@gmail.com**
+### 🛠️ Technologies & Tools
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1phackZ_ZQls0ORn1JMxVtw1U6aXrJG8P/view?usp=sharing](https://drive.google.com/file/d/1phackZ_ZQls0ORn1JMxVtw1U6aXrJG8P/view?usp=sharing)
+<div align="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 5px;" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehedimehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedimehad" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohammadmehedihasanmehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammadmehedihasanmehad" height="30" width="40" /></a>
-<a href="https://instagram.com/mehedimehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedimehad" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedimehad&show_icons=true&locale=en" alt="mehedimehad" /></p>
+### 📈 Contribution Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimehad&" alt="mehedimehad" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedimehad&theme=github-light&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+| 🚀 Project               | 💻 Tech Stack                             | 🌟 Features                                                 | 🔗 Links                                                                                 |
+| ------------------------ | ----------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **E-Commerce Platform**  | React, Node.js, MongoDB, Express          | Real-time updates, Payment integration, Admin dashboard     | [Live](https://your-project-demo.com) • [Code](https://github.com/mehedimehad/project1)  |
+| **Task Management App**  | Next.js, TypeScript, PostgreSQL, Tailwind | PWA support, Offline functionality, Data visualization      | [Live](https://your-project-demo2.com) • [Code](https://github.com/mehedimehad/project2) |
+| **API Development Tool** | Python, FastAPI, Docker, Redis            | API integration, Automated workflows, Scalable architecture | [Live](https://your-project-demo3.com) • [Code](https://github.com/mehedimehad/project3) |
+
+</div>
+
+<br>
+
+### Let's Connect!
+
+<div align="center">
+  <!-- <h3>📫 Reach out to me!</h3> -->
+  
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="margin: 5px;" />
+  </a>
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40" style="margin: 5px;" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Portfolio" width="40" height="40" style="margin: 5px;" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40" style="margin: 5px;" />
+  </a>
+</div>
+
+<br>
