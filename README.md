@@ -2,7 +2,7 @@
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Black%20%26%20Yellow%20Creative%20Business%20Facebook%20Cover%20%281%29-MekYxFJZObGbKckL3HZlyrA2toZbI2.gif" alt="Creative Tech Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
-### About Me
+## About Me
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -10,7 +10,7 @@ Hey there! I'm a passionate **Full Stack Developer** dedicated to crafting innov
 
 <br>
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <div align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;" />
@@ -36,7 +36,7 @@ Hey there! I'm a passionate **Full Stack Developer** dedicated to crafting innov
 
 <br>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedimehad&theme=github-light&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="100%" />
@@ -44,7 +44,7 @@ Hey there! I'm a passionate **Full Stack Developer** dedicated to crafting innov
 
 <br>
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Hey there! I'm a passionate **Full Stack Developer** dedicated to crafting innov
 
 <br>
 
-### Let's Connect!
+## Let's Connect!
 
 <div align="center">
   <!-- <h3>📫 Reach out to me!</h3> -->
